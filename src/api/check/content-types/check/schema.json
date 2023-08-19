@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "checks",
+  "info": {
+    "singularName": "check",
+    "pluralName": "checks",
+    "displayName": "Check"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Titulo": {
+      "type": "string"
+    }
+  }
+}
