@@ -19,11 +19,15 @@
       "required": true
     },
     "portada": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
       "allowedTypes": [
         "images"
-      ],
-      "type": "media",
-      "multiple": false
+      ]
+    },
+    "Description": {
+      "type": "richtext"
     }
   }
 }
